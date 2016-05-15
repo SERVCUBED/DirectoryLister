@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("DirGet")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Directory Lister")]
+[assembly: AssemblyDescription("A subdirectory lister")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("DirGet")]
-[assembly: AssemblyCopyright("Copyright ©  2015")]
+[assembly: AssemblyProduct("Directory Lister")]
+[assembly: AssemblyCopyright("Copyleft SERVCUBED 2016 GPL License")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
